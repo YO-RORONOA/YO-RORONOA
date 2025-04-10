@@ -6,7 +6,7 @@
   
   <p>🌟 <b>Full-Stack Developer</b> from <b>Youssoufia, Morocco</b> 🌟</p>
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/oahmane-youness)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/youness-ouahmane-418147222)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Yo-Roronoa)
   [![Fiverr](https://img.shields.io/badge/-Fiverr-1DBF73?style=for-the-badge&logo=Fiverr&logoColor=white)](https://fiverr.com/youness_ouahmane)
   [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:youness.ouahmane4@gmail.com)
