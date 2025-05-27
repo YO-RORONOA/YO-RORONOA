@@ -145,18 +145,6 @@ As a full-stack developer and ServiceNow Administrator with expertise in Laravel
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png" width="100%">
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yo-roronoa&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yo-roronoa&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yo-roronoa&layout=compact&theme=radical&hide_border=true" />
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=yo-roronoa&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophy" />
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
-
 ## 🚀 Featured Projects
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
@@ -189,21 +177,6 @@ As a full-stack developer and ServiceNow Administrator with expertise in Laravel
   <img src="https://i.ibb.co/5L0LzB2/cloud-app.jpg" width="100%" />
 </div>
 
-<div style="width: 31%; min-width: 300px; background: rgba(31, 41, 55, 0.6); border-radius: 16px; padding: 20px; margin-bottom: 20px;">
-  <h3>Booking System</h3>
-  <p>Appointment scheduling platform with calendar integration and notification system.</p>
-  <p><b>Technologies:</b> Laravel, FullCalendar, PostgreSQL</p>
-  <img src="https://i.ibb.co/6ysW6Dc/booking-app.jpg" width="100%" />
-</div>
-
-<div style="width: 31%; min-width: 300px; background: rgba(31, 41, 55, 0.6); border-radius: 16px; padding: 20px; margin-bottom: 20px;">
-  <h3>CMS Platform</h3>
-  <p>Custom content management system with user roles, media management, and API integration.</p>
-  <p><b>Technologies:</b> PHP, Tailwind CSS, MySQL</p>
-  <img src="https://i.ibb.co/nB6J1RB/cms.jpg" width="100%" />
-</div>
-
-</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
